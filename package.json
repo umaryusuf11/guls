@@ -2,6 +2,7 @@
   "name": "guls",
   "version": "1.0.0",
   "description": "Gets languages used by a github user",
+  "repository": "github:umaryusuf11/guls",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
